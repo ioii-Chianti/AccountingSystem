@@ -1,0 +1,14 @@
+### Test 001 ###
+$input
+&input
+$output
+輸入 ID 或 Q (結束使用)? (ID 需要存在且僅由數字組成)
+&output
+
+### Test 002 ###
+$input
+Q
+&input
+$output
+Bye <3
+&output
